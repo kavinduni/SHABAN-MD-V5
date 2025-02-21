@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~OeIAiIBb#ERKWs77caeKjHAPzvZiZdTot7aOXtzZ6mqaD045uDXg",
       "required": true,
       "value": ""
     },  
@@ -100,7 +100,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
@@ -132,14 +132,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "94773745965"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "Nimsath-MD-V5"
 
       }, 
 
